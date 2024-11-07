@@ -391,7 +391,7 @@ Resources:
                       AI Analysis and Recommendations:
                       {summary}
 
-                      Note: This analysis was generated using Amazon Bedrock Generative AI service.
+                      Note: This analysis was generated using Amazon Bedrock Generative AI service.Please review the findings carefully before implementation.
 
                       For more details, please check the AWS GuardDuty console.
 
