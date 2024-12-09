@@ -20,15 +20,6 @@ This project streamlines security monitoring by processing GuardDuty findings th
 - Severity-based categorization
 - Region-specific monitoring
 
-## Template Structure
-
-The alert template includes:
-- Account and severity information
-- Finding details (ID, region, resource type)
-- Instance information
-- Network connection details
-- AI-generated analysis summary
-
 ## Prerequisites
 
 - AWS Account
