@@ -46,7 +46,7 @@ The alert template includes:
 - AWS Lambda: Processing
 - Amazon EventBridge: Event routing
 
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](Architrcture.png)
 
 ## Deployment
 
